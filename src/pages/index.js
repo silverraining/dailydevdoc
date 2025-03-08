@@ -1,19 +1,18 @@
-import React from 'react';
-import clsx from 'clsx';
-import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './video.module.css';
-import HomeNavBoxes from '../components/homepage/homeNavBoxes';
-import { Redirect } from '@docusaurus/router';
+import React from "react";
+import clsx from "clsx";
+import Layout from "@theme/Layout";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import styles from "./video.module.css";
+import HomeNavBoxes from "../components/homepage/homeNavBoxes";
+import { Redirect } from "@docusaurus/router";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">daily.dev docs</h1>
+        <h1 className="hero__title">Cracking Algorithms</h1>
       </div>
     </header>
   );
@@ -26,7 +25,8 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Description will go into a meta tag in <head />"
+    >
       <HomepageHeader />
       <main>
         <HomeNavBoxes />

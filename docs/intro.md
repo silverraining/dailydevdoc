@@ -6,9 +6,11 @@ description: "daily.dev brings the latest tech news and articles to developers, 
 
 # Introduction
 
-daily.dev is a professional network for developers that provides the latest tech news and articles all in one place. 
+We're studying Algorithms for preparing Coding test to be a Full-stack Developer.
 
-We curate posts from over 1300 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer.
+<!-- daily.dev is a professional network for developers that provides the latest tech news and articles all in one place.
+
+We curate posts from over 1300 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer. -->
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Introduction video for daily.dev"></iframe>
 
@@ -18,7 +20,7 @@ We want you to get the most out of daily.dev, so we've put together this quick s
 
 ### Step 1: Install 🚀
 
-You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). 
+You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md).
 
 Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily).
 
@@ -40,10 +42,8 @@ On daily.dev, you can [create a profile](/your-profile/activity.md). With a prof
 
 Make daily.dev look and feel the way you want! [Customize](/customize-your-feed/layout.md) the theme, layout, card density, and other cool preferences to personalize your experience.
 
-
-You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). 
+You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md).
 
 Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily)
-
 
 We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!

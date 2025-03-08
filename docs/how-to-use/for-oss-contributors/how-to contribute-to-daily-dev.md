@@ -13,7 +13,7 @@ Contributing to open source can be transformative for a developer’s career. Op
 
 ## daily.dev’s GitHub Repository
 
-Explore our GitHub repository to level up your coding skills and contribute to daily.dev’s development: [daily.dev GitHub Repository](https://github.com/dailydotdev/daily).  
+Explore our GitHub repository to level up your coding skills and contribute to daily.dev’s development: [daily.dev GitHub Repository](https://github.com/dailydotdev/daily).
 
 If you’re already visiting our GitHub repo, don’t forget to give us a star ⭐ to show your support!
 
